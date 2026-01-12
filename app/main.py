@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from pathlib import Path
 import sys
+=======
 
 import pandas as pd
 import streamlit as st
@@ -12,6 +13,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.append(str(PROJECT_ROOT))
 
+=======
 from src.biomech.risk import compute_biomech_flags
 from src.data.loader import load_external_sources, load_local_data
 from src.data.synthetic import generate_synthetic_players
