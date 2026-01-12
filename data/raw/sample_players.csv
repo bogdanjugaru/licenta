@@ -1,0 +1,26 @@
+player_id,name,team,age,height_cm,weight_kg,position,dominant_foot,minutes_last_30d,matches_last_30d,sprint_distance_km,total_distance_km,previous_injuries,days_since_last_injury,muscle_fatigue_index,sleep_quality,travel_km_last_30d,injury_next_30d
+1,Kylian Mbappe,Paris Saint-Germain,25,178,73,Forward,Right,790,9,12.1,98.4,1,140,0.58,7.4,1800,0
+2,Erling Haaland,Manchester City,24,194,88,Forward,Left,820,9,11.4,96.1,2,65,0.72,6.7,2300,1
+3,Kevin De Bruyne,Manchester City,33,181,70,Midfielder,Right,680,7,7.2,88.9,3,40,0.76,6.1,2100,1
+4,Jude Bellingham,Real Madrid,21,186,75,Midfielder,Right,760,8,8.4,91.7,1,110,0.61,7.0,2000,0
+5,Vinicius Junior,Real Madrid,24,176,73,Forward,Right,740,8,12.0,95.5,1,125,0.59,7.2,1700,0
+6,Harry Kane,Bayern Munich,31,188,86,Forward,Right,830,9,9.2,93.0,2,55,0.70,6.6,1900,1
+7,Robert Lewandowski,Barcelona,36,185,81,Forward,Right,720,8,8.8,90.3,1,180,0.54,7.5,1600,0
+8,Lionel Messi,Inter Miami,37,170,72,Forward,Left,610,7,9.5,86.7,2,90,0.63,6.9,1400,0
+9,Cristiano Ronaldo,Al Nassr,39,187,83,Forward,Right,750,8,9.0,92.1,2,75,0.68,6.8,2500,1
+10,Neymar Jr,Al Hilal,32,175,68,Forward,Right,500,6,8.1,78.4,4,20,0.86,5.8,2800,1
+11,Virgil van Dijk,Liverpool,33,193,92,Defender,Right,790,9,5.0,89.5,1,220,0.52,7.8,1500,0
+12,Ruben Dias,Manchester City,27,187,82,Defender,Right,760,8,5.4,87.3,1,190,0.55,7.3,1700,0
+13,Trent Alexander-Arnold,Liverpool,25,180,69,Defender,Right,700,8,7.1,85.2,2,95,0.64,6.9,1600,0
+14,Achraf Hakimi,Paris Saint-Germain,25,181,73,Defender,Right,770,8,9.8,94.0,1,150,0.60,7.1,2200,0
+15,Andrew Robertson,Liverpool,30,178,64,Defender,Left,690,7,8.2,86.9,2,80,0.67,6.6,2000,0
+16,Luka Modric,Real Madrid,38,172,66,Midfielder,Right,540,6,6.2,76.4,3,35,0.74,6.0,1200,1
+17,Toni Kroos,Real Madrid,34,183,76,Midfielder,Right,600,7,5.8,81.0,1,210,0.50,7.6,1300,0
+18,Bukayo Saka,Arsenal,22,178,65,Forward,Left,780,9,10.5,97.3,1,135,0.57,7.2,1900,0
+19,Mohamed Salah,Liverpool,32,175,71,Forward,Left,810,9,10.7,99.0,1,160,0.56,7.3,2100,0
+20,Jan Oblak,Atletico Madrid,31,188,87,Goalkeeper,Right,720,8,3.4,66.2,1,300,0.39,8.0,800,0
+21,Alisson Becker,Liverpool,31,193,91,Goalkeeper,Right,760,9,3.1,67.0,1,260,0.41,7.9,900,0
+22,Thibaut Courtois,Real Madrid,32,200,96,Goalkeeper,Left,400,5,2.8,60.5,3,15,0.82,5.7,600,1
+23,Pedri,Barcelona,21,174,60,Midfielder,Right,620,7,7.6,84.1,2,70,0.69,6.5,1500,0
+24,Rodri,Manchester City,28,191,82,Midfielder,Right,840,9,6.3,92.7,1,180,0.53,7.4,2300,0
+25,Bernardo Silva,Manchester City,29,173,64,Midfielder,Left,710,8,7.9,88.0,1,200,0.51,7.5,1700,0
